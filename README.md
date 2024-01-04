@@ -8,8 +8,8 @@ Obviously, all copywrite belong to their respective owners.
 
 ### TODO
 
-[ ] Make the site responsive
-[ ] Add product page
-[ ] Add more rooms
-[ ] Get rid of the ugly white screen that shows when first loading a room with a large image
-[ ] Make the cart work
+- [ ] Make the site responsive
+- [ ] Add product page
+- [ ] Add more rooms
+- [ ] Get rid of the ugly white screen that shows when first loading a room with a large image
+- [ ] Make the cart work
