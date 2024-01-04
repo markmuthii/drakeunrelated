@@ -4,7 +4,7 @@ My attempt at recreating https://drakerelated.com/ using NextJS and TailwindCSS.
 
 This version can be found over at https://drakeunrelated.vercel.app/
 
-Obviously, all copywrite belong to their respective owners.
+Obviously, all copyright belong to their respective owners.
 
 ### TODO
 
